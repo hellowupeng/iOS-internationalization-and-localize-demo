@@ -1,0 +1,10 @@
+/* 
+  Localizable.strings
+  iLikeIt
+
+  Created by AndyWu on 2017/1/10.
+  Copyright © 2017年 Raywenderlich. All rights reserved.
+*/
+"Yesterday you sold %@ apps" = "Ayer le vendi&oacute; %@ aplicaciones";
+"You like?" = "~Es bueno?~";
+"imageName" = "megusta";
